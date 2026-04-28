@@ -1,0 +1,24 @@
+{
+  "name": "cypress-saucedemo-framework",
+  "version": "1.0.0",
+  "description": "This project is a test automation framework built with Cypress for the SauceDemo web application. It demonstrates an automation-first, SDET-oriented approach focusing on reliable, maintainable, and scalable testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ida-jankowska/cypress-saucedemo-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ida-jankowska/cypress-saucedemo-framework/issues"
+  },
+  "homepage": "https://github.com/ida-jankowska/cypress-saucedemo-framework#readme",
+  "devDependencies": {
+    "cypress": "^15.14.1",
+    "typescript": "^6.0.3"
+  }
+}
